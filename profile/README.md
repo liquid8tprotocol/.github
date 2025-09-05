@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Liquid8t</h1>
-  <p><strong> Building Liquid8t, the DeFi off-ramp that simplifies crypto-to-fiat conversion and cross-chain liquidity routing.</strong></p>
   
   <p>
     <a href="#">Website</a> •
