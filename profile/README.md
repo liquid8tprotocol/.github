@@ -18,7 +18,7 @@ Liquid8t is a DeFi cashout aggregator designed to simplify the complex process o
 
 ## 🚀 Our Vision
 
-We're building a bridge between DeFi and traditional finance, making it seamless to move between the crypto and fiat worlds. Liquid8t removes the technical barriers that limit mainstream DeFi adoption.
+We're building a bridge between DeFi and traditional finance - making it seamless to move between the crypto and fiat worlds. Liquid8t removes the technical barriers that limit mainstream DeFi adoption.
 
 ## 💼 Use Cases
 
